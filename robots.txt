@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://new.juliabarinova.com/sitemap.xml
+Sitemap: https://juliabarinova.com/sitemap.xml
